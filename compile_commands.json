@@ -1,0 +1,18 @@
+[
+  {
+    "file": "main.c",
+    "arguments": [
+      "/usr/bin/gcc",
+      "-I/opt/homebrew/opt/freetype/include/freetype2",
+      "-I/opt/homebrew/opt/libpng/include/libpng16",
+      "main.c",
+      "-framework",
+      "-framework",
+      "-framework",
+      "-o",
+      "engine"
+    ],
+    "directory": "/Users/dylanchristiandihalim/cage",
+    "output": "engine"
+  }
+]
